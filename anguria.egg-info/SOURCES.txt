@@ -1,0 +1,7 @@
+README.md
+anguria
+setup.py
+anguria.egg-info/PKG-INFO
+anguria.egg-info/SOURCES.txt
+anguria.egg-info/dependency_links.txt
+anguria.egg-info/top_level.txt
